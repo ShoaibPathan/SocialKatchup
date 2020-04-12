@@ -1,0 +1,14 @@
+
+{
+    "current_user": {
+        "id": 101,
+        "name": "Marco",
+        "surname": "Masson",
+        "avatar": "mocked_profile",
+        "detail_info": {
+            "posts_count": 214,
+            "followers_count": 10000,
+            "following_count": 231
+        }
+    }
+}

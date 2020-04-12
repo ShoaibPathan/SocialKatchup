@@ -1,0 +1,162 @@
+
+{
+    "list": [
+        {
+            "id": 1,
+            "price": 340,
+            "message": "What is the loop of Creation? How is there something from nothing? In spite of the fact that it is impossible to prove that anythin…",
+            "postTime": 1584377073,
+            "author": {
+                "id": 1001,
+                "name": "Kate",
+                "surname": "Larson",
+                "avatar": "ic_default_profile"
+            },
+            "isLiked": false
+        },
+        {
+            "id": 2,
+            "price": 240,
+            "message": "There is this awesome event happening. Let’s join it guys.",
+            "postTime": 1584377073,
+            "isLiked": true,
+            "author": {
+                "id": 1002,
+                "name": "Jenny",
+                "surname": "Catsvil",
+                "avatar": "ic_default_profile"
+            }
+        },
+        {
+            "id": 3,
+            "price": 240,
+            "message": "There is this awesome event happening. Let’s join it guys.",
+            "postTime": 1584377073,
+            "isLiked": true,
+            "author": {
+                "id": 1003,
+                "name": "Gary",
+                "surname": "Rosevele",
+                "avatar": "ic_default_profile"
+            }
+        },
+        {
+            "id": 4,
+            "price": 10,
+            "message": "What is the loop of Creation? How is there something from nothing? In spite of the fact that it is impossible to prove that anythin…",
+            "postTime": 1584377073,
+            "isLiked": false,
+            "author": {
+                "id": 1004,
+                "name": "Tommy",
+                "surname": "Gun",
+                "avatar": "ic_default_profile"
+            }
+        },
+        {
+            "id": 31,
+            "price": 240,
+            "message": "There is this awesome event happening. Let’s join it guys.",
+            "postTime": 1584377073,
+            "isLiked": true,
+            "author": {
+                "id": 1006,
+                "name": "Gary",
+                "surname": "Rosevele",
+                "avatar": "ic_default_profile"
+            }
+        },
+        {
+            "id": 32,
+            "price": 240,
+            "message": "What is the loop of Creation? How is there something from nothing? In spite of the fact that it is impossible to prove that anythin…",
+            "postTime": 1584377073,
+            "isLiked": true,
+            "author": {
+                "id": 1007,
+                "name": "Gary",
+                "surname": "Rosevele",
+                "avatar": "ic_default_profile"
+            }
+        },
+        {
+            "id": 33,
+            "price": 240,
+            "message": "There is this awesome event happening. Let’s join it guys.",
+            "postTime": 1584377073,
+            "isLiked": true,
+            "author": {
+                "id": 1008,
+                "name": "Gary",
+                "surname": "Rosevele",
+                "avatar": "ic_default_profile"
+            }
+        },
+        {
+            "id": 34,
+            "price": 240,
+            "message": "What is the loop of Creation? How is there something from nothing? In spite of the fact that it is impossible to prove that anythin…",
+            "postTime": 1584377073,
+            "isLiked": false,
+            "author": {
+                "id": 1009,
+                "name": "Gary",
+                "surname": "Rosevele",
+                "avatar": "ic_default_profile"
+            }
+        },
+        {
+            "id": 35,
+            "price": 240,
+            "message": "There is this awesome event happening. Let’s join it guys.",
+            "postTime": 1584377073,
+            "isLiked": true,
+            "author": {
+                "id": 1010,
+                "name": "Gary",
+                "surname": "Rosevele",
+                "avatar": "ic_default_profile"
+            }
+        },
+        {
+            "id": 36,
+            "price": 240,
+            "message": "There is this awesome event happening. Let’s join it guys.",
+            "postTime": 1584377073,
+            "isLiked": false,
+            "author": {
+                "id": 1011,
+                "name": "Gary",
+                "surname": "Rosevele",
+                "avatar": "ic_default_profile"
+            }
+        },
+        {
+            "id": 37,
+            "price": 240,
+            "message": "What is the loop of Creation? How is there something from nothing? In spite of the fact that it is impossible to prove that anythin…",
+            "postTime": 1584377073,
+            "isLiked": false,
+            "author": {
+                "id": 1012,
+                "name": "Gary",
+                "surname": "Rosevele",
+                "avatar": "ic_default_profile"
+            }
+        },
+        {
+            "id": 38,
+            "price": 240,
+            "message": "There is this awesome event happening. Let’s join it guys.",
+            "postTime": 1584377073,
+            "isLiked": false,
+            "author": {
+                "id": 1013,
+                "name": "Gary",
+                "surname": "Rosevele",
+                "avatar": "ic_default_profile"
+            }
+        }
+    ]
+
+}
